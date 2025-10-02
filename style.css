@@ -1,0 +1,53 @@
+#titulo-principal {
+  font-size: 50px;
+  font-family: sans-serif;
+  color: white;
+
+}
+
+header {
+  background-color: black;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  height: 100px; 
+  margin-top: 40px;
+
+  
+}
+
+#parrafo-1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: blue;
+    border-radius: 30px;
+   display: flex;
+   align-items: center;
+   padding: 20px ;
+    
+    
+}
+
+#imagen-hiphop {
+  height: 400px;
+  display: block;
+  margin: auto;
+  border-radius: 30px;
+}
+
+body {
+  background-color: gray;
+  font-family: sans-serif;
+  margin-left: 50px;
+}
+
+#lista-cantantes {
+   font-family: sans-serif;
+   font-size: 20px;
+   align-items: center;
+}
